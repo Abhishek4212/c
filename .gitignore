@@ -1,0 +1,11 @@
+**/node_modules/
+**/dist/
+**/build/
+**/.vite/
+**/.next/
+**/.cache/
+**/.vscode/
+
+.env
+**/.env
+*.log
